@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-lg-12 margin-th">
                 <div class="pull-left">
-                    <h2>Add New Movie</h2>
+                    <h2>Add New Dzongkha Movies</h2>
                 </div>
             </div>
         </div>
