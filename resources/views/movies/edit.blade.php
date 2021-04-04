@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-lg-12 margin-th">
                 <div class="pull-left">
-                    <h2>Edit Movie</h2>
+                    <h2>Edit Movie BEST</h2>
                 </div>
             </div>
         </div>
